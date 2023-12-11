@@ -1,0 +1,22 @@
+{
+  "name": "fusion-css",
+  "version": "1.0.10",
+  "description": "css framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lugh-tuatha/fusion-css-package.git"
+  },
+  "keywords": [
+    "fusion"
+  ],
+  "author": "ace-gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lugh-tuatha/fusion-ui-package/issues"
+  },
+  "homepage": "https://github.com/lugh-tuatha/fusion-ui-package#readme"
+}
